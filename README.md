@@ -2,9 +2,11 @@
 I'm currently pursuing BE-CSE at SKCET,CBE
 
 Computer Science undergraduate | Data Science • Machine Learning • Full-Stack Development
+
 Python | Java | React | SQL | AWS
 
 I build data-driven and full-stack applications, enjoy solving DSA problems, and love turning
+
 ideas into working products 🚀
 
 ## 🌐 Socials:
