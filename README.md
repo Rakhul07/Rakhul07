@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm currently pursuing BE-CSE at SKCET,CBE
 
+Computer Science undergraduate | Data Science • Machine Learning • Full-Stack Development
+Python | Java | React | SQL | AWS
+
+I build data-driven and full-stack applications, enjoy solving DSA problems, and love turning
+ideas into working products 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rakhul006) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakhull) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rakhul07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakaash.b2k@gmail.com) 
