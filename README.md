@@ -7,7 +7,5 @@
 
 - **Building what I wish existed.**
 
-<p align="left">
-<a href="https://www.leetcode.com/rakhul06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakhul06" height="30" width="40" /></a>
-</p>
+- LeetCode [https://leetcode.com/u/rakhul06/](https://leetcode.com/u/rakhul06/)
 
