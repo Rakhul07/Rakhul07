@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nMDkZNYV23SRmRRbCN2Hk3uurTDsZMB3/view?usp=drive_link](https://drive.google.com/file/d/1nMDkZNYV23SRmRRbCN2Hk3uurTDsZMB3/view?usp=drive_link)
 
-- ⚡ Fun fact **Building what I wish existed.**
+**Building what I wish existed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
