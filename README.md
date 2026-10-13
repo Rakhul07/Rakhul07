@@ -3,7 +3,7 @@
 
 - All of my projects are available at [rakhul.dev](https://rakhul.dev/)
 
-- How to reach me **prakaash.b2k@gmail.com**
+- How to reach me **rakhulrajendran@gmail.com**
 
 - LeetCode [leetcode/rakhul06](https://leetcode.com/u/rakhul06/)
 
